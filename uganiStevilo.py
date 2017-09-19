@@ -18,4 +18,3 @@ while (secret != guess):
         print "Potrebovali ste"
         print count
         print "poskusov"
-
